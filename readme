@@ -1,24 +1,24 @@
 Problems from the website http://projecteuler.net:
 
-First:			Multiples of 3 and 5
-Second:			Even Fibonacci numbers
-Third:			Largest prime factor
-Forth:			Largest Palindrome product
-Fifth:			Smallest multiple
-Sixth:			Sum square difference
-Seventh:		The 10001th prime
-Eighth:			Find the largest product 
-Ninth:			Product of Pythagorean triplet
-Tenth:			Summation of primes
-Eleventh:		Largest product in a grid
-Twelfth:		Highly divisible triangular number
-Thirdeenth:		Large sum
-Forteenth:		Longest Collatz sequence
-Fifteenth		Lattice Paths
-Sixteenth		Power digit sum
-Seventeenth		Number letter counts
-Eigtheenth		Maximum path sum I (same script for problem 67)
+First:				Multiples of 3 and 5
+Second:				Even Fibonacci numbers
+Third:				Largest prime factor
+Forth:				Largest Palindrome product
+Fifth:				Smallest multiple
+Sixth:				Sum square difference
+Seventh:			The 10001th prime
+Eighth:				Find the largest product 
+Ninth:				Product of Pythagorean triplet
+Tenth:				Summation of primes
+Eleventh:			Largest product in a grid
+Twelfth:			Highly divisible triangular number
+Thirdeenth:			Large sum
+Forteenth:			Longest Collatz sequence
+Fifteenth			Lattice Paths
+Sixteenth			Power digit sum
+Seventeenth			Number letter counts
+Eigtheenth			Maximum path sum I (same script for problem 67)
 
-Twentieth		Factorial digit sum
-Twenty-first	Amicable numbers
-Twenty-second	Name Scores
+Twentieth			Factorial digit sum
+Twenty-first		Amicable numbers
+Twenty-second		Name Scores
